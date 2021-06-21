@@ -1,0 +1,11 @@
+Weather Stats for -MEERUT  || 21 Jun 2021 | 09:29:37 PM
+Current temperature is: 33.410000000000025
+Current weather desc  :clear sky
+Current Humidity      :37% 
+Current wind speed    :2.82kmph
+Weather Stats for -DELHI  || 21 Jun 2021 | 09:30:23 PM
+Current temperature is: 34.05000000000001
+Current weather desc  :haze
+Current Humidity      :59% 
+Current wind speed    :2.06kmph
+
